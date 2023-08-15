@@ -1,0 +1,9 @@
+C:\Users\TheShoqanebi\source\repos\csv2xlsx\bin\Release\csv2xlsx.exe.config
+C:\Users\TheShoqanebi\source\repos\csv2xlsx\bin\Release\csv2xlsx.exe
+C:\Users\TheShoqanebi\source\repos\csv2xlsx\bin\Release\csv2xlsx.pdb
+C:\Users\TheShoqanebi\source\repos\csv2xlsx\obj\Release\csv2xlsx.csproj.AssemblyReference.cache
+C:\Users\TheShoqanebi\source\repos\csv2xlsx\obj\Release\csv2xlsx.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheShoqanebi\source\repos\csv2xlsx\obj\Release\csv2xlsx.csproj.ResolveComReference.cache
+C:\Users\TheShoqanebi\source\repos\csv2xlsx\obj\Release\csv2xlsx.csproj.CoreCompileInputs.cache
+C:\Users\TheShoqanebi\source\repos\csv2xlsx\obj\Release\csv2xlsx.exe
+C:\Users\TheShoqanebi\source\repos\csv2xlsx\obj\Release\csv2xlsx.pdb
